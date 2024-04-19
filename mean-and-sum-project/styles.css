@@ -1,0 +1,19 @@
+/* Question 5
+Return the mean and sum of an array of numbers */
+
+html,
+body,
+#container {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
